@@ -1,73 +1,56 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/images/banner.png" alt="My Profile Banner" />
-</p>
+# Hi there, I'm [Your Name] 👋
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-<h3 align="center">A Passionate [Your Role] from [Your Location] 🇮🇳</h3>
+[![Website](https://img.shields.io/badge/-Website-blue?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourhandle)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youremail@gmail.com)](mailto:youremail@gmail.com)
 
-<p align="left">
-  I'm a developer, a lifelong learner, and a tech enthusiast. I love building things that live on the internet, from websites and applications to everything in between. My goal is to always be growing and improving my skills.
-</p>
+## 🚀 About Me
 
-- 🔭 I’m currently working on **[Name of Your Project]**
-- 🌱 I’m currently learning **[Technology You're Learning]**
-- 👯 I’m looking to collaborate on **[Types of Projects, e.g., Open Source, Web Apps]**
-- 🤔 I’m looking for help with **[A Challenge You're Facing]**
-- 💬 Ask me about **[Topics You're Confident In, e.g., React, Python, DevOps]**
-- 📫 How to reach me: **[your.email@example.com]**
-- 😄 Pronouns: **[He/Him, She/Her, They/Them, etc.]**
-- ⚡ Fun fact: **[A Fun Fact About You]**
+I'm a [Your Profession/Role] passionate about [your interests or specialties]. I love solving complex problems and building innovative solutions. When I'm not coding, you can find me [your hobbies/interests].
 
----
+## 🔧 Technologies & Tools
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</p>
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 
----
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en&theme=dracula&count_private=true" alt="YOUR_USERNAME's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&locale=en&theme=dracula" alt="YOUR_USERNAME's Top Languages" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula" alt="YOUR_USERNAME's GitHub Streak" />
-</p>
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 
----
+## 📈 GitHub Stats
 
-<h3 align="left">🤝 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YOUR_LINKEDIN_USERNAME" height="30" width="40" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YOUR_TWITTER_USERNAME" height="30" width="40" /></a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="YOUR_INSTAGRAM_USERNAME" height="30" width="40" /></a>
-  <a href="https://dev.to/YOUR_DEVTO_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="YOUR_DEVTO_USERNAME" height="30" width="40" /></a>
-  <a href="https://your-portfolio-website.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/www.svg" alt="Portfolio Website" height="30" width="40" /></a>
-</p>
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
 
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
 
-<h3 align="left">🏆 GitHub Trophies</h3>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
+## 🏆 GitHub Trophies
 
----
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">📰 Recent Blog Posts</h3>
+## 🔥 Streak Stats
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)](https://git.io/streak-stats)
+
+## 📫 How to Reach Me
+
+- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 🌍 Website: [yourwebsite.com](https://yourwebsite.com)
+
+## ⚡ Fun Fact
+
+[Insert a fun fact about yourself here! For example: "I once wrote a program to automate my coffee ordering!"]
